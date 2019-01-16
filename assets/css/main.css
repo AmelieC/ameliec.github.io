@@ -2326,13 +2326,14 @@ input, select, textarea {
 			}
 
 		/* Modal  */
-		#portfolioModal .modal-dialog {
+		#cv-modalEVS .modal-dialog, #portfolioModal .modal-dialog {
 			max-width: 75%;
 		}
 	
 		#cv-modal .modal-dialog{
 			max-width: 60%;
 		}
+
 
 	}
 
